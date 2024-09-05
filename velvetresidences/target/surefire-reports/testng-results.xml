@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-04T16:50:27 IST" name="cliqlens.com" finished-at="2024-09-04T16:50:54 IST" duration-ms="27436">
+    <groups>
+    </groups>
+    <test started-at="2024-09-04T16:50:27 IST" name="cliqlens" finished-at="2024-09-04T16:50:54 IST" duration-ms="27436">
+      <class name="cliqlens.com.TestCases.TC_Register_001">
+        <test-method is-config="true" signature="setup()[pri:0, instance:cliqlens.com.TestCases.TC_Register_001@4a94ee4]" started-at="2024-09-04T16:50:27 IST" name="setup" finished-at="2024-09-04T16:50:31 IST" duration-ms="4017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Registerwithinvalidemailone()[pri:0, instance:cliqlens.com.TestCases.TC_Register_001@4a94ee4]" started-at="2024-09-04T16:50:31 IST" name="Registerwithinvalidemailone" finished-at="2024-09-04T16:50:54 IST" duration-ms="23300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registerwithinvalidemailone -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:cliqlens.com.TestCases.TC_Register_001@4a94ee4]" started-at="2024-09-04T16:50:54 IST" name="teardown" finished-at="2024-09-04T16:50:54 IST" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- cliqlens.com.TestCases.TC_Register_001 -->
+    </test> <!-- cliqlens -->
+  </suite> <!-- cliqlens.com -->
+</testng-results>
